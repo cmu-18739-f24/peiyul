@@ -1,0 +1,12 @@
+﻿  win32.cpp
+C:\Users\lpy\source\repos\Project2\Project2\win32.cpp(75,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lpy\source\repos\Project2\Project2\win32.cpp(91,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lpy\source\repos\Project2\Project2\win32.cpp(192,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lpy\source\repos\Project2\Project2\win32.cpp(209,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lpy\source\repos\Project2\Project2\win32.cpp(214,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lpy\source\repos\Project2\Project2\win32.cpp(228,8): warning C4101: 'tid': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 187 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project2.vcxproj -> C:\Users\lpy\source\repos\Project2\Project2\x64\Release\Project2.exe
