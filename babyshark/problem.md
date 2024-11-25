@@ -4,6 +4,7 @@
 - ID: babyshark
 - Type: custom
 - Category: Reverse Engineering
+- Points: 10
 
 ## Description
 
