@@ -4,6 +4,7 @@
 - ID: casino
 - type: custom
 - Category: Crypto
+- Points: 10
 
 ## Description
 
